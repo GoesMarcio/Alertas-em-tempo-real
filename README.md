@@ -25,7 +25,7 @@ Para rodar o backend, instale as dependência executando o trecho a seguir no te
 
 ```sh
 $ cd backend
-$ npm install
+$ npm install -d
 $ node run dev
 ```
 
